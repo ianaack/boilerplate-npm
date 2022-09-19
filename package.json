@@ -3,6 +3,7 @@
   "author": "Ian Ackerman",
   "description": "Managing Packages with NPM for Back End Development and APIs through FreeCodeCamp.org",
   "keywords": ["npm", "packages", "api", "freecodecamp"],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
