@@ -4,6 +4,7 @@
   "description": "Managing Packages with NPM for Back End Development and APIs through FreeCodeCamp.org",
   "keywords": ["npm", "packages", "api", "freecodecamp"],
   "license": "MIT",
+  "version": "1.0.2",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
