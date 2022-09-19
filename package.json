@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
   "author": "Ian Ackerman",
+  "description": "Managing Packages with NPM for Back End Development and APIs through FreeCodeCamp.org",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
